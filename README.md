@@ -1,7 +1,7 @@
 <div align="center">
 
 # Carafaad Mohamed Cumar (Wahidle)
-## 🚀 Full Stack Web Software Eng And System Designer
+## 🚀 Full Stack Software Eng, Web Developer & Mobile Developer
 
 <p>
   <i>Passionate about building modern web applications, scalable backend systems, and user-friendly digital experiences.</i>
@@ -24,9 +24,9 @@
 ---
 
 ## 👨‍💻 About Me
-Waxaan ahay Full Stack Web Software Engineer iyo System Designer oo xiise weyn u leh horumarinta software-ka, naqshadaynta nidaamyada casriga ah, iyo xalinta dhibaatooyinka farsamo. Inkastoo aanan hadda ka shaqayn shirkad rasmi ah, waxaan si joogto ah uga caawiyaa ardayda dhismaha projects, fahamka programming-ka, iyo horumarinta xirfadahooda farsamo.
+Waxaan ahay Full Stack Software Eng, Web Developer & Mobile Developer oo xiise weyn u leh horumarinta software-ka, naqshadaynta nidaamyada casriga ah, iyo xalinta dhibaatooyinka farsamo. Inkastoo aanan hadda ka shaqayn shirkad rasmi ah, waxaan si joogto ah uga caawiyaa ardayda dhismaha projects & xalinta dhibaatooyin, fahamka programming-ka, iyo horumarinta xirfadahooda farsamo.
 
-Waxaan ku takhasusay dhismaha web applications, backend systems, databases, iyo system architecture anigoo adeegsanaya teknoolojiyadaha casriga ah. Ujeeddadaydu waa inaan abuuro software tayo sare leh oo leh naqshad nadiif ah, waxqabad wanaagsan, iyo khibrad isticmaale oo heer sare ah.
+Waxaan ku takhasusay dhismaha web applications & mobile applications, backend systems, databases, iyo system architecture anigoo adeegsanaya teknoolojiyadaha casriga ah. Ujeeddadaydu waa inaan abuuro software tayo sare leh oo leh naqshad nadiif ah, waxqabad wanaagsan, iyo khibrad isticmaale oo heer sare ah.
 
 ---
 
