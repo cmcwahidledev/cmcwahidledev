@@ -12,10 +12,10 @@
   <h2 style="color: #ffffff; margin-bottom: 10px;">👋 Soo Dhawoow, Waxaan Ahay Carafaad!</h2>
   <p style="font-size: 1.1rem; opacity: 0.95; margin-bottom: 20px;">Dhisidda xalalka dhijitaalka ah ee tayeysan oo saameyn leh</p>
   <div>
-    <a href="https://github.com/arafad-dev" target="_blank">
+    <a href="https://github.com/cmcwahidledev" target="_blank">
       <img src="https://img.shields.io/badge/View_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
     </a>
-    <a href="mailto:arafad.dev@gmail.com">
+    <a href="mailto:cmcwahidledev@gmail.com">
       <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
     </a>
   </div>
@@ -97,16 +97,16 @@ Waxaan ku takhasusay dhismaha **Web Applications**, **Mobile Applications**, **B
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/arafad-dev" target="_blank">
+  <a href="https://github.com/cmcwahidledev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/eng-carafaad-mohamed-cumar-00ba87405/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://tiktok.com/@carafad_mohamed" target="_blank">
+  <a href="https://tiktok.com/@cmcwahidledev" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100091277317259" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
