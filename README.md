@@ -101,6 +101,20 @@ I also enjoy sharing technical knowledge, helping aspiring developers understand
 
 ---
 
+## 🚀 Featured Project
+
+### Soosheek – Civic Issue Reporting Platform
+
+A digital platform designed to help citizens report public infrastructure problems and track their progress.
+
+- Report community issues with descriptions, photos, categories, and locations.
+- Track report status and progress.
+- Connect citizens, workers, and administrators.
+- Support better communication and public service accountability.
+
+**Technologies:** React, React Native, Node.js, Express.js, MongoDB, Expo.
+
+
 ## 🌐 Connect With Me
 
 <div align="center">
