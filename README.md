@@ -1,115 +1,87 @@
 <div align="center">
 
-# 🚀 Carafaad Mohamed Cumar (Wahidle)
-### **Full Stack Software Engineer | Web & Mobile App Developer**
+# Carafaad Mohamed Cumar (Wahidle)
+### Full Stack Software Engineer | Web & Mobile App Developer
 
-<p align="center">
-  <i>"Transforming ideas into scalable digital solutions and seamless user experiences."</i>
-</p>
+*Waxaan u beddelaa fikradaha xalal dhijitaal ah oo la ballaarin karo, kuna dhisan khibrad isticmaale oo wanaagsan.*
 
-<!-- Hero Banner with Gradient & Glassmorphism Styling -->
-<div style="background: linear-gradient(135deg, #4F46E5 0%, #7C3AED 50%, #C026D3 100%); padding: 35px 20px; border-radius: 16px; color: white; margin: 20px 0;">
-  <h2 style="color: #ffffff; margin-bottom: 10px;">👋 Soo Dhawoow, Waxaan Ahay Carafaad!</h2>
-  <p style="font-size: 1.1rem; opacity: 0.95; margin-bottom: 20px;">Dhisidda xalalka dhijitaalka ah ee tayeysan oo saameyn leh</p>
-  <div>
-    <a href="https://github.com/cmcwahidledev" target="_blank">
-      <img src="https://img.shields.io/badge/View_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-    </a>
-    <a href="mailto:cmcwahidledev@gmail.com">
-      <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
-    </a>
-  </div>
-</div>
+[![Mashaariicda](https://img.shields.io/badge/Eeg_Mashaariicda-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmcwahidledev)
+[![La Xiriir](https://img.shields.io/badge/La_Xiriir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmcwahidledev@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Waxa Aan Ahay (About Me)
+## 👨‍💻 Ku Saabsan
 
-Waxaan ahay **Full Stack Software Engineer**, **Web Developer**, iyo **Mobile Developer** oo xiise weyn u leh horumarinta software-ka, naqshadaynta nidaamyada casriga ah, iyo xalinta dhibaatooyinka farsamo ee mgog-adag. 
+Waxaan ahay **Full Stack Software Engineer** oo ku takhasusay horumarinta **Web** iyo **Mobile** applications. Xiiso gaar ah ayaan u leeyahay naqshadaynta nidaamyo casri ah iyo xalinta dhibaatooyin farsamo oo adag.
 
-Marka laga soo tago dhismaha mashruucyada gaarka ah, waxaan si virshual ah oo joogto ah u caawiyaa ardayda iyo horumariyayaasha cusub, anoo kala shaqeeya dhismaha projects-ka, xalinta dhibaatooyinka code-ka (debugging), fahamka hoose ee programming-ka, iyo sare u qaadida xirfadahooda farsamo.
+Waxaan ku shaqeeyaa dhismaha:
 
-Waxaan ku takhasusay dhismaha **Web Applications**, **Mobile Applications**, **Backend Architecture**, iyo **Database Management** anigoo adeegsanaya teknoolojiyadaha ugu cussub ee sarriga ah.
+- **Web Applications**
+- **Mobile Applications**
+- **Backend Architecture**
+- **Database Management**
+
+Marka laga reebo mashaariicda gaarka ah, waxaan si joogto ah onlayn ugu taageeraa ardayda iyo horumariyayaasha cusub. Waxaan la shaqeeyaa dhismaha mashaariicda, ka caawiyaa debugging-ka, hoos u dhigaa fahamka aasaasiga ah ee programming-ka, una taageeraa horumarinta xirfadahooda farsamo.
 
 ---
 
-## 📊 Quick Stats
+## 📊 Tirakoob Kooban
 
-<div align="center">
-
-| 🚀 Completed Projects | 🛠️ Tech Stack Mastered | ⏳ Hands-on Experience |
+| 🚀 Mashaariic La Dhammeeyay | 🛠️ Tignoolajiyado | ⏳ Khibrad Wax-ku-ool ah |
 | :---: | :---: | :---: |
-| **20+ Projects** | **18+ Technologies** | **6+ Months Active** |
-
-</div>
+| **20+ Mashruuc** | **18+ Tignoolajiyo** | **6+ Bilood** |
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Xirfadaha & Tignoolajiyada
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
+### 💻 Luuqadaha Barnaamijka
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🎨 Frontend & Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Databases & Cloud Storage
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### 🗄️ Xog-ururinta (Databases)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Developer Tools & Environment
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
+### 🛠️ Qalabka Horumarinta
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 La Xiriir
 
 <p align="center">
-  <a href="https://github.com/cmcwahidledev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/@cmcwahidledev" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100091277317259" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  <a href="https://github.com/cmcwahidledev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://tiktok.com/@cmcwahidledev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100091277317259"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <sub>© Carafaad Mohamed Cumar (Wahidle) • Built with passion and continuous learning 🚀</sub>
+  <sub>© Carafaad Mohamed Cumar (Wahidle) • Waxbarasho joogto ah iyo hammi sare</sub>
 </div>
